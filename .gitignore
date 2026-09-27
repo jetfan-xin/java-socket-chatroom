@@ -1,0 +1,19 @@
+# Build output
+target/
+out/
+*.class
+
+# Runtime data
+data/
+downloads/
+*.db
+*.ser
+
+# IDE and operating-system metadata
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Local logs
+*.log
